@@ -1,6 +1,6 @@
 # CS580_Fall24_Justin_Cheung
 
-Assignment 3:
+## Assignment 4:
 
 Linear Regression program:
 Make sure to install matplotlib, numpy, and pandas using pip. 
